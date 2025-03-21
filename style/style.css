@@ -21,6 +21,11 @@ button:hover {
   height: 200px;
   animation: float 2s infinite ease-in-out alternate;
 }
+.kiwi {
+  width: 800px;
+  height: 800px;
+  background-image: url(../image/kiwi-svgrepo-com.svg);
+}
 @keyframes float {
   0% {
     transform: translateY(0);
